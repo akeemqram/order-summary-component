@@ -1,2 +1,2 @@
 # order-summary-component
-My First Frontend.io Project
+My First Frontendmentor.io Project
