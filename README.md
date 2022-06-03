@@ -1,2 +1,2 @@
 # order-summary-component
-My First Frontend Mentor.io Project
+My First Frontend Mentor Project
